@@ -1,0 +1,18 @@
+{
+  "items": [{
+    "name": "Afrikiko River Front Resort",
+    "description": "This is a perfect weekend getaway location.",
+    "price": 599,
+    "moreInfo": "Comes with kid friendly activities"
+  }, {
+    "name": "Aqua Safari Resort",
+    "description": "This is a perfect weekend getaway location.",
+    "price": 599,
+    "moreInfo": "Comes with kid friendly activities"
+    }, {
+      "name": "The Royal Senchi",
+      "description": "This is a perfect weekend getaway location.",
+      "price": 599,
+      "moreInfo": "Comes with kid friendly activities"
+      }]
+}
