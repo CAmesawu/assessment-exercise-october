@@ -1,3 +1,7 @@
+//Code adapted from udemy course on java essentials
+//Source: https://www.udemy.com/course/javascript-essentials/ accessed in October, 2020
+
+
 let elements = document.getElementsByName('cssProperty');
 
 let div = document.getElementById('modify');
@@ -12,6 +16,9 @@ function set()
         let cssValue = elements[ index ].value;
         
         div.style[ cssProperty ] = cssValue;
+        
+        //adding event for each select drop down  
+        elements[index].addEventListener('click', set);
     }
 }
 
